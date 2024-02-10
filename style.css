@@ -27,14 +27,14 @@ body {
 }
 
 .giphy-embed {
-    animation: heading 1s ease-in-out 37.5s forwards ;
+    animation: heading 1s ease-in-out 37s forwards ;
     opacity: 0;
 }
 
 .heading {
     font-size: 1.5rem;
     color: #FC0FC0;
-    animation: heading 1s ease-in-out 37.5s forwards ;
+    animation: heading 1s ease-in-out 37s forwards ;
     opacity: 0;
 }
 
